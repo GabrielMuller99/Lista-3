@@ -1,0 +1,7 @@
+H:\IESB\Git\Labs\Lista03_ED\Lista03_ED\bin\Debug\Lista03_ED.exe.config
+H:\IESB\Git\Labs\Lista03_ED\Lista03_ED\bin\Debug\Lista03_ED.exe
+H:\IESB\Git\Labs\Lista03_ED\Lista03_ED\bin\Debug\Lista03_ED.pdb
+H:\IESB\Git\Labs\Lista03_ED\Lista03_ED\obj\Debug\Lista03_ED.csproj.AssemblyReference.cache
+H:\IESB\Git\Labs\Lista03_ED\Lista03_ED\obj\Debug\Lista03_ED.csproj.CoreCompileInputs.cache
+H:\IESB\Git\Labs\Lista03_ED\Lista03_ED\obj\Debug\Lista03_ED.exe
+H:\IESB\Git\Labs\Lista03_ED\Lista03_ED\obj\Debug\Lista03_ED.pdb
